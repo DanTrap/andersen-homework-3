@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">andersen-homework-3</string>
+    <string name="enter_url_of_image">Enter url of image</string>
+    <string name="random_picture_from_internet">Random picture from internet</string>
 </resources>
