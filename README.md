@@ -4,4 +4,4 @@
 ## image-downloading branch
     Ветка с загрузкой картинок с использованием Glide
 ## image-downloading-without-glide branch
-    Ветка с загрузкой картинок с использованием HttpURLCOnnection и Java Thread
+    Ветка с загрузкой картинок с использованием HttpURLConnection и Java Thread
